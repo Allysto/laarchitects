@@ -3,12 +3,10 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: rgb(255, 193, 122);
+  background-color: rgb(255, 157, 45);
   color: #333;
 }
-.logo image{
-  size-adjust: ;
-}
+
 
 .container {
   width: 90%;
